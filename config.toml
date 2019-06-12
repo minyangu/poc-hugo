@@ -1,5 +1,4 @@
 title = "MaterialBet Bitcoin Gambling News BTC Sports & Casino Blog"
-baseURL = "http://localhost/"
 theme = "ananke"
 
 DefaultContentLanguage = "en"
