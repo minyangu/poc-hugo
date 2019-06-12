@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost/posts/my-first-json-post/</loc>
+    <lastmod>2019-05-31T10:20:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/categories/</loc>
+    <lastmod>2019-05-31T10:20:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/</loc>
+    <lastmod>2019-05-31T10:20:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/posts/</loc>
+    <lastmod>2019-05-31T10:20:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/</loc>
+    <lastmod>2019-05-31T10:20:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/posts/top-5-betting-strategies-for-the-nba/</loc>
+    <lastmod>2019-05-31T10:20:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/posts/whos-buying-bitcoin/</loc>
+    <lastmod>2019-05-31T10:20:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/categories/configuration/</loc>
+    <lastmod>2019-05-31T10:20:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/categories/example/</loc>
+    <lastmod>2019-05-31T10:20:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/example/</loc>
+    <lastmod>2019-05-31T10:20:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/hugo/</loc>
+    <lastmod>2019-05-31T10:20:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/toml/</loc>
+    <lastmod>2019-05-31T10:20:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

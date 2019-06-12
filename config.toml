@@ -1,0 +1,48 @@
+title = "MaterialBet Bitcoin Gambling News BTC Sports & Casino Blog"
+baseURL = "http://localhost/"
+theme = "ananke"
+
+DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+  	contentDir = "content/en-gb"
+    title = "MaterialBet"
+    languageName = "English"
+    weight = 1
+  [languages.fr]
+  	contentDir = "content/fr-fr"
+    title = "Mon blogue"
+    languageName = "Française"
+    weight = 2
+  [languages.zh]
+  	contentDir = "content/zh-hans-cn"
+    title = "MaterialBet"
+    languageName = "简体中文"
+    weight = 3
+  [languages.ko]
+  	contentDir = "content/ko-kr"
+    title = "MaterialBet"
+    languageName = "조선말"
+    weight = 4
+  [languages.id]
+  	contentDir = "content/id-id"
+    title = "MaterialBet"
+    languageName = "Bahasa Indonesia"
+    weight = 5
+  [languages.ru]
+  	contentDir = "content/ru-ru"
+    title = "MaterialBet"
+    languageName = "Русский"
+    weight = 6
+  [languages.tr]
+  	contentDir = "content/tr-tr"
+    title = "MaterialBet"
+    languageName = "Türkçe"
+    weight = 7
+
+[params]
+  background_color_class = "bg-near-black"
+  featured_image = "/https://res.cloudinary.com/betengine/image/fetch/c_fit,f_auto,q_auto/https://cdn.cloudbet.com/Cricket-World-Cup-Hero.jpg"
+  recent_posts_number = 7
