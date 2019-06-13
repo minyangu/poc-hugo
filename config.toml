@@ -4,6 +4,7 @@ theme = "ananke-mod"
 
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
+paginate=3
 
 [languages]
   [languages.en]
@@ -107,4 +108,4 @@ defaultContentLanguageInSubdir = true
 [params]
   background_color_class = "bg-near-black"
   featured_image = "/https://res.cloudinary.com/betengine/image/fetch/c_fit,f_auto,q_auto/https://cdn.cloudbet.com/Cricket-World-Cup-Hero.jpg"
-  recent_posts_number = 7
+  recent_posts_number = 12
