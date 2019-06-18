@@ -1,1 +1,20 @@
-{"id":8,"slug":"bitcoin-101","title":"Bitcoin 101","metaTitle":"Bitcoin Guide | Bitcoin Explained | Learn about bitcoin","categoryText":{"content":"<p>Read the Bitcoin 101 guide at Cloudbet to learn how bitcoin work and how to gamble with bitcoin. Cloudbet is the world’s most established bitcoin sportsbook &amp; casino.</p>"},"description":"Read the bitcoin 101 guide at Cloudbet and learn about bitcoin. Cloudbet is the world’s most established bitcoin sportsbook & casino.","robotsMetaTag":["follow","index"],"ogTitle":null,"ogDescription":null,"ogImage":[],"twitterTitle":null,"twitterDescription":null,"twitterImage":[]}
+{
+    "id": 8,
+    "slug": "bitcoin-101",
+    "title": "Bitcoin 101",
+    "metaTitle": "Bitcoin Guide | Bitcoin Explained | Learn about bitcoin",
+    "categoryText": {
+        "content": "<p>Read the Bitcoin 101 guide at Cloudbet to learn how bitcoin work and how to gamble with bitcoin. Cloudbet is the world’s most established bitcoin sportsbook &amp; casino.</p>"
+    },
+    "description": "Read the bitcoin 101 guide at Cloudbet and learn about bitcoin. Cloudbet is the world’s most established bitcoin sportsbook & casino.",
+    "robotsMetaTag": [
+        "follow",
+        "index"
+    ],
+    "ogTitle": null,
+    "ogDescription": null,
+    "ogImage": [],
+    "twitterTitle": null,
+    "twitterDescription": null,
+    "twitterImage": []
+}
